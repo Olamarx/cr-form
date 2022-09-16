@@ -331,24 +331,6 @@ form li {
   list-style: inside url("../media/svg/circle.svg");
 }
 
-/* form {
-  margin: auto auto;
-  width: 70%;
-  height: 400px;
-} */
-
-/*
-.form-ul {
-
-} */
-
-/* .input-name, .input-email {
-  height: 30px;
-  width: 400px;
-  /* border-bottom: 1px solid #dbd8d7; */
-
-/* } */
-
 .form-section {
   display: flex;
   flex-direction: column;
